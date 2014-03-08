@@ -12,9 +12,9 @@ The Board may approve the holding of public events within KwartzLab space throug
 
 ## Regarding the Date and Frequency of Board Meetings:
 
-The Board of Directors shall meet every three weeks on Mondays.
+The Board of Directors shall meet every three weeks on Wednesdays.
 
-Be it resolved that board members shall be notified at least 24 hours in advance of board meetings via the BOD mailing list, for those board meetings that require advance notification as per the bylaws.
+Be it resolved that members shall be notified at least 24 hours in advance of board meetings via the announce mailing list, for those board meetings that require advance notification as per the bylaws.
 
 ## Regarding Member Applicants:
 
