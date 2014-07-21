@@ -2,10 +2,6 @@
 
 All Board Procedures should be reviewed following each Annual General Meeting.
 
-## Hiatus
-
-The Board shall only approve hiatus for members who are going to be out of town for a period of 2 months or longer, and for a period no longer than 8 months.
-
 ## Public Events
 
 The Board may approve the holding of public events within KwartzLab space through the verbal or written consent of a majority of directors, outside of a Board meeting. Any such approval must be ratified at a future Board meeting.
