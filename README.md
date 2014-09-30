@@ -18,6 +18,10 @@ Be it resolved that when an applicant is being voted on for membership to Kwartz
 
 Board approval via Admin mailing list – Be it resolved that a new member can be approved if the entire board unanimously approves the new member using the Kwartzlab Admin mailing list.
 
+## Regarding Membership Status Changes:
+
+The secretary will ensure that the membership is notified via the members mailing list of any membership status changes as they happen.
+
 ## Regarding New Member Dues:
 
 Be it resolved that the first month of a new member’s dues will be pro-rated weekly by the calendar week that they are inducted during.
