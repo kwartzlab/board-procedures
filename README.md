@@ -44,7 +44,7 @@ The Treasurer may grant approval for consumable purchases totalling no more than
 
 ## Membership suspension and termination for non payment of dues:
 
-After 3 months of not paying membership dues, a member is suspended. At this point, they will no longer accrue missed payments. By the 4 month, their membership will be terminated if not resolved.
+After 3 months of not paying membership dues, a member is suspended, giving them a 1 month grace period before termination. At this point, they will no longer accrue missed payments. By the 4 month, their membership will be terminated if not resolved.
 
 ## Conditions of membership return:
 
