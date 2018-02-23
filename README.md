@@ -41,3 +41,12 @@ Rather than legislating this, the consensus of the Board is to leave it up to th
 All requests for reimbursements must be submitted to the member’s mailing list for approval by the Treasurer. Requests must include an itemized cost estimate. Requests for reimbursements totalling under $50 for consumable purchases may be submitted after the purchase has been made. All other requests should be submitted prior to purchase.
 
 The Treasurer may grant approval for consumable purchases totalling no more than $50, at the Treasurer’s discretion. For all other reimbursement requests, Treasurer approval may only be granted with the support of all active Directors as expressed on the members’ mailing list, or by a majority vote of the Board of Directors.
+
+## Membership suspension and termination for non payment of dues:
+
+After 3 months of not paying membership dues, a member is suspended. At this point, they will no longer accrue missed payments. By the 4 month, their membership will be terminated if not resolved.
+
+## Conditions of membership return:
+
+After either voluntarily resigning membership, or being terminated, you are no longer a member. Once you are no longer a member, if you want to rejoin Kwartzlab, you MUST re-apply. Any amounts owing from previous membership dues, must be repaid before membership is granted.
+
