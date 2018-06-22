@@ -8,8 +8,6 @@ The Board may approve the holding of public events within KwartzLab space throug
 
 ## Regarding the Date and Frequency of Board Meetings:
 
-The Board of Directors shall meet every three weeks on Wednesdays.
-
 Be it resolved that members shall be notified at least 24 hours in advance of board meetings via the announce mailing list, for those board meetings that require advance notification as per the bylaws.
 
 ## Regarding Member Applicants:
@@ -20,11 +18,7 @@ Board approval via Admin mailing list – Be it resolved that a new member can b
 
 ## Regarding Membership Status Changes:
 
-The secretary will ensure that the membership is notified via the members mailing list of any membership status changes as they happen.
-
-## Regarding New Member Dues:
-
-Be it resolved that the first month of a new member’s dues will be pro-rated weekly by the calendar week that they are inducted during.
+Membership status changes will be handled through the automated member database. 
 
 ## Regarding Member Events:
 
