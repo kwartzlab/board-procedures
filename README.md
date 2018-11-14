@@ -1,5 +1,7 @@
 # Corporation – Board Procedure
 
+Note: This document is now deprecated. The canonical copy of this document can now be found at https://docs.google.com/document/d/1dpOl8eVG-1TWP34BiFMpPgzCSmNYekr2_03m6RVbues/edit?usp=sharing
+
 All Board Procedures should be reviewed following each Annual General Meeting.
 
 ## Public Events
